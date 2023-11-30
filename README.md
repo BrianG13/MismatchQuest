@@ -1,4 +1,5 @@
 # Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment
+![alt text](https://github.com/BrianG13/MismatchQuest/blob/main/imgs/teaser.jpg?raw=True)
 ___
 This repository contains the code and instructions to reproduce the results of the paper "Mismatch Quest: Visual and Textual Feedback for Image-Text Misalignment".
 
